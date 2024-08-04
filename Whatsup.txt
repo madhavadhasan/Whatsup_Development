@@ -9,3 +9,5 @@ Author : mady
 3. last sceen code
 
 4.Attachment (Images, Audio,Vedio)code
+
+5.Hiding the last seen
